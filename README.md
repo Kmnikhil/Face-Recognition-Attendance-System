@@ -45,11 +45,11 @@ This project implements a real-time face recognition attendance system using Ope
 
 ## Example
     ```markdown
-    ![Main Menu Screenshot](D:\Works\opencv_works\Facial Recognition Attendance System\menu.png)
+    ![Main Menu](menu.png)
     ```
 
     ```markdown
-    ![Recognize output](D:\Works\opencv_works\Facial Recognition Attendance System\final_result.png)
+    ![Recognize output](final_result.png)
     ```
 ## 📂 **Project Structure**
 
