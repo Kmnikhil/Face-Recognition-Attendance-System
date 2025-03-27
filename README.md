@@ -44,13 +44,11 @@ This project implements a real-time face recognition attendance system using Ope
     * This menu allows you to select which function to run.
 
 ## Example
-    ```markdown
-    ![Main Menu](menu.png)
-    ```
+ 
+ ![Main Menu](menu.png)
 
-    ```markdown
-    ![Recognize output](final_result.png)
-    ```
+ ![Recognize output](final_result.png)
+
 ## 📂 **Project Structure**
 
 ```
